@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bus Reservation</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+  <h1>Welcome to EasyBus</h1>
+  <p>Book your bus tickets quickly and easily!</p>
+
+  <h2>Services</h2>
+  <ul>
+    <li>Online Ticket Booking</li>
+    <li>Seat Selection</li>
+    <li>Real-time Bus Tracking</li>
+  </ul>
+
+  <p>Contact: support@easybus.com</p>
+
+</body>
+</html>body {
+  background-color: lightcyan;
+  text-align: center;
+  font-family: Arial;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: darkred;
+}
+
+p {
+  color: green;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  color: purple;
+}
