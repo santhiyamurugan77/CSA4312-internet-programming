@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>EduBright Institute</title>
+  <style>
+    body { background: #f0f8ff; font-family: Arial; text-align: center; }
+    h1 { color: #2e8b57; }
+    p { color: #333; font-size: 18px; }
+    .btn { background: #ff6347; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome to EduBright Institute</h1>
+  <p>Your path to bright future starts here!</p>
+  <a class="btn" href="#">Explore Courses</a>
+
+</body>
+</html>
