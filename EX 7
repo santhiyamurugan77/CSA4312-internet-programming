@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ad Company</title>
+</head>
+<body style="background-color: lightyellow; font-family: Arial; text-align: center;">
+
+  <h1 style="color: red;">BrightAds</h1>
+  <p style="color: black;">Creative Advertising Solutions</p>
+
+  <h2 style="color: blue;">Our Services</h2>
+  <ul style="list-style: none; padding: 0; color: green;">
+    <li>Digital Marketing</li>
+    <li>Print Media</li>
+    <li>Video Ads</li>
+  </ul>
+
+  <p style="color: darkblue;">Contact: info@brightads.com</p>
+
+</body>
+</html>
