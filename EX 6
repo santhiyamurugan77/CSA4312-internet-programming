@@ -1,0 +1,49 @@
+# Courses Offered in CSE Department
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSE Department Courses</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #fff;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+<h1>Available Courses in CSE Department</h1>
+<ul>
+    <li>Introduction to Computer Science</li>
+    <li>Data Structures and Algorithms</li>
+    <li>Database Management Systems</li>
+    <li>Operating Systems</li>
+    <li>Software Engineering</li>
+    <li>Web Development</li>
+    <li>Machine Learning</li>
+    <li>Computer Networks</li>
+    <li>Artificial Intelligence</li>
+    <li>Mobile Application Development</li>
+</ul>
+
+</body>
+</html>
