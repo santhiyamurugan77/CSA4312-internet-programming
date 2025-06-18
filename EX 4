@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Load Image with Specific Dimensions</title>
+</head>
+<body>
+
+<h2>Image with Specific Dimensions</h2>
+
+<!-- Image with width 300px and height 200px -->
+<img src="your-image.jpg" alt="Descriptive Text" width="300" height="200">
+
+</body>
+</html>
