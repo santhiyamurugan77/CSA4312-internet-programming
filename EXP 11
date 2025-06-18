@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .box {
+      width: 200px;
+      height: 100px;
+      background-color: lightblue;
+      box-shadow: 5px 5px 15px gray;
+      margin: 20px;
+      text-align: center;
+      line-height: 100px;
+      font-weight: bold;
+    }
+
+    .shadow-text {
+      font-size: 24px;
+      text-shadow: 2px 2px 5px gray;
+    }
+  </style>
+</head>
+<body>
+
+<div class="box">Box Shadow</div>
+<p class="shadow-text">This text has a shadow!</p>
+
+</body>
+</html>
