@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    @keyframes slide {
+      0% { left: 0; }
+      100% { left: 200px; }
+    }
+    .anim-box {
+      width: 100px;
+      height: 100px;
+      background-color: red;
+      position: relative;
+      animation: slide 2s infinite alternate;
+    }
+  </style>
+</head>
+<body>
+  <div class="anim-box"></div>
+  <p>This red box slides left and right using animation.</p>
+</body>
+</html>
